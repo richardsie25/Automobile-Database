@@ -1,0 +1,8 @@
+Model:Bugatti Veyron
+Base Price:2000000
+Color: 
+Blue,5000,Black,3000,White,1000,Orange,500
+Transmission:
+Auto,0,Standard,1000
+Horsepower:
+1500HP,300000,2000HP,700000

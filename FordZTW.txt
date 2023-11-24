@@ -1,0 +1,14 @@
+Model:Ford Focus Wagon ZTW
+Base Price:29999
+Color: 
+Red,500,Green,1000,White,-200
+Transmission:
+Auto,0,Standard,-800
+Brakes:
+Standard,0,ABS,400,ABS with Advanced Trac,1600
+Side Impact Air Bags:
+None,0,With,350
+Power Moonroof:
+None,0,With,915
+Horsepower:
+500HP,700,700HP,2000
